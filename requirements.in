@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+torch
+torcheval
+gsutil
+pre-commit
+rasterio
+xarray
+numpy
+torchvision
+Pillow
+Absl-py
