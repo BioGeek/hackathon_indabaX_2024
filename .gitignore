@@ -163,3 +163,4 @@ cython_debug/
 
 data/
 *_submission.csv
+model_*.pt
