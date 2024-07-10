@@ -1,0 +1,9 @@
+name: hackathon
+channels:
+  - default
+dependencies:
+  - python=3.9
+  - pip
+  - setuptools=69.5.1
+  - pip:
+      - -r requirements.txt
