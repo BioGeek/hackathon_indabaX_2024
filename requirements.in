@@ -1,5 +1,5 @@
 pandas
-numpy
+numpy<2
 scikit-learn
 torch
 torcheval
@@ -7,9 +7,10 @@ gsutil
 pre-commit
 rasterio
 xarray
-numpy
 torchvision
 Pillow
 Absl-py
 matplotlib
 tifffile
+tqdm
+scikit-learn

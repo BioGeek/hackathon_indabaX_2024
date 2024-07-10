@@ -1,9 +1,10 @@
 Clean Data Processing
 Understand bands
 Understand and explain statistics_dataloader
-Find out why normalize_and_convert_to_tensor is not doing any normalisation
 Find out why process_test exists - why specific code for the test set?
 
 Get data download pipeline
 Improve documentation
+Make python 3.9 env and ensure working
+
 Run top-to-bottom
