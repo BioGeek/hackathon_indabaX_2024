@@ -1,6 +1,5 @@
 Clean Data Processing
 Understand bands
-Understand and explain statistics_dataloader
 Find out why process_test exists - why specific code for the test set?
 
 Get data download pipeline
