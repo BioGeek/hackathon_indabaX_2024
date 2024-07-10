@@ -1,4 +1,4 @@
-# hackathon_indabaX_2024
+# hackathon indabaX 2024
 
 ## Run the code locally
 
