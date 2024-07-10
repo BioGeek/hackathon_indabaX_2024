@@ -11,3 +11,5 @@ numpy
 torchvision
 Pillow
 Absl-py
+matplotlib
+tifffile
