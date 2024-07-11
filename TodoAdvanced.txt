@@ -1,9 +1,0 @@
-Clean Data Processing
-Understand bands
-Find out why process_test exists - why specific code for the test set?
-
-Get data download pipeline
-Improve documentation
-Make python 3.9 env and ensure working
-
-Run top-to-bottom
