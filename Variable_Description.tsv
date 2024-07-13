@@ -1,0 +1,23 @@
+Variable 	Name	Notes	Type	Source
+sm_-1 	Soil Moisture (day 1)	Soil moisture level on the 1st  day	Temporal 	ESA CCI
+sm_-2	Soil Moisture (day 2) 	Soil moisture level on the 2nd day	Temporal 	ESA CCI
+sm_-31 	Soil Moisture (day 31)	Soil moisture level on the 31st day	Temporal 	ESA CCI
+fcover_-1	Fraction of Vegetation Cover (day 1)	Percentage of ground covered by vegetation on day 1.	Temporal 	CLMS
+fcover_-2	Fraction of Vegetation Cover (day 2)	Percentage of ground covered by vegetation on day 2.	Temporal 	CLMS
+fcover_-31	Fraction of Vegetation Cover (day 31)	Percentage of ground covered by vegetation on day 31.	Temporal 	CLMS
+precipitation_-1	Precipitation (day 1)	Amount of rainfall on day 1	Temporal 	CHIRPS
+precipitation_-2	Precipitation (day 2)	Amount of rainfall on day 2	Temporal 	CHIRPS
+precipitation_-31	Precipitation (day 31)	Amount of rainfall on day 3	Temporal 	CHIRPS
+land_cover	Land Cover		Non-temporal	Terra Climate
+aet	Actual Evapotranspiration	Amount of water that evaporated or tranpirated from the surface	Non-temporal 	Terra Climate
+def	Climate Water Deficit		Non-temporal 	Terra Climate
+ppt	Precipitation (Monthly total)	Total amount of rainfall in a month	Non-temporal 	Terra Climate
+srad	Downward surface shortwave radiation	The solar radiation reaching the earth's surface	Non-temporal 	Terra Climate
+swe	Snow water equivalent	Measure of the amount of water contained in snowpack.	Non-temporal 	Terra Climate
+tmax	Max Temperature	Highest temperature recorded	Non-temporal 	Terra Climate
+tmin	Min Temperature	Lowest temperature recorded	Non-temporal 	Terra Climate
+vap	Vapor pressure 	Measure of the amount of moisture in the air	Non-temporal	Terra Climate
+ws	Wind speed		Non-temporal 	Terra Climate
+vpd	Vapor Pressure Deficit		Non-temporal	Terra Climate
+PDSI	Palmer Drought Severity Index	Metric used to measure the severity of drought conditions	Non-temporal 	Terra Climate
+wadis	Digital Elevation 		Non-temporal	Open Topography
