@@ -74,4 +74,4 @@ Advanced notebook: <a target="_blank" href="https://colab.research.google.com/gi
 
 ## Credits
 
-This dataset was provided from a collaborative research between [InstaDeep](https://www.instadeep.com/2021/12/an-early-detection-system-for-desert-locust-outbreaks-in-africa-in-collaboration-with-google-ai/), [Google AI Center in Ghana](https://blog.google/intl/en-africa/company-news/6-ways-google-is-working-with-ai-in-africa/#:~:text=3.%20Predicting%20locusts) and [UN-FAO](https://www.fao.org/locust-watch/en).
+This dataset was provided from a collaborative research between [InstaDeep](https://www.instadeep.com/2021/12/an-early-detection-system-for-desert-locust-outbreaks-in-africa-in-collaboration-with-google-ai/), [Google AI Center in Ghana](https://blog.google/intl/en-africa/company-news/6-ways-google-is-working-with-ai-in-africa/#:~:text=3.%20Predicting%20locusts) and [UN-FAO](https://www.fao.org/locust-watch/en). Special thanks to [Ibrahim Salihu Yusuf](https://www.linkedin.com/in/ibrahim-salihu-yusuf-721103100/) for preparing the data and the starter notebooks.
